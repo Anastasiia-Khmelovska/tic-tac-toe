@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: aquamarine;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+
+.rowStyle {
+  display: 'flex'
+}
+
+.containerStyle {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column
+}
+
+.instructionsStyle {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.buttonStyle {
+  margin-top: 15px;
+  margin-bottom: 16px;
+  width: 80px;
+  height: 40px;
+  background-color: #8acaca;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+}

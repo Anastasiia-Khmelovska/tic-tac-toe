@@ -1,0 +1,14 @@
+.boardStyle {
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+    align-items: center;
+    width: 328px;
+    justify-content: center;
+    border: 3px #eee solid;
+    border-radius: 10px;
+}
+
+.tieboard {
+    background-color: rgb(214, 73, 73);
+}

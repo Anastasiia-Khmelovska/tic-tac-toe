@@ -1,0 +1,22 @@
+.squareStyle {
+    height: 100px;
+    width: 100px;
+    margin: 4px;
+    background-color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS',
+        'Lucida Sans Unicode',
+        'Lucida Grande',
+        'Lucida Sans',
+        Arial,
+        sans-serif;
+    font-size: 30px;
+    color: rgb(203, 34, 203);
+    border-radius: 10px;
+}
+
+.firstPlayer {
+    color: rgb(83, 4, 110);
+}
