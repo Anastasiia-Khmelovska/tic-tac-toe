@@ -1,10 +1,7 @@
-# React TypeScript Starter Pack
+Tic - Tac - Toe game!)
+<br>
+you can play by [LINK]-(https://anastasiia-khmelovska.github.io/tic-tac-toe/)
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
-# tic-tac-toe
+It created with Typescript, React and SCSS
+<br>
+Enjoy the game!)
